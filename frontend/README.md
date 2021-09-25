@@ -1,4 +1,4 @@
-# frontend
+# ferre_max
 
 ## Project setup
 ```
